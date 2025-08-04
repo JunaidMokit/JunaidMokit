@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Junaid</h1>
-<h3 align="center">A passionate Full-Stack Developer from Bangladesh</h3>
+<h1 align="center">👋 Hi, I'm Junaid Rahman Mokit</h1>
+<h3 align="center">Full-Stack Developer</h3>
+<p align="center"><em>Building scalable web apps with clean code and creative solutions.</em></p>
+
 
 
 
