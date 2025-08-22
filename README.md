@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center">👋 Hi, I'm <a href="https://github.com/junaidmokit">Junaid Rahman Mokit</a></h1>
-<h3 align="center">🚀 Full-Stack Developer | MERN & Next.js Enthusiast</h3>
+<h3 align="center">🚀 Full-Stack Developer </h3>
 <p align="center"><em>Transforming ideas into scalable and efficient web applications.</em></p>
 
 ---
