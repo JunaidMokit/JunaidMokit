@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center">👋 Hi, I'm <a href="https://github.com/junaidmokit">Junaid Rahman Mokit</a></h1>
-<h3 align="center">🚀 Full-Stack Developer </h3>
+
 <p align="center"><em>Transforming ideas into scalable and efficient web applications.</em></p>
 
 ---
@@ -9,7 +9,7 @@
 ### 🧑‍💻 About Me  
 
 - 🔭 Currently working on: **PH Tour**  
-- 🌱 Learning: **Next.js & Cloud Computing**  
+- 🌱 Learning: **Next.js**  
 - 🤝 Open to collaborate on: **Amar-University**  
 - 💬 Ask me about: **React.js, Express.js, MERN Stack**  
 - 📫 Reach me at: **junaid.rahman.mokit096@gmail.com**
