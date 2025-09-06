@@ -10,7 +10,7 @@
 
 - 🔭 Currently working on: **PH Tour**  
 - 🌱 Learning: **Next.js**  
-- 🤝 Open to collaborate on: **Amar-University**  
+- 🤝 Open to collaborate on: **AmarUniversity**  
 - 💬 Ask me about: **React.js, Express.js, MERN Stack**  
 - 📫 Reach me at: **junaid.rahman.mokit096@gmail.com**
 
