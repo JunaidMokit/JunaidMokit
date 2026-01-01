@@ -58,13 +58,25 @@
 ---
 
 <!-- GitHub Stats Section -->
-## 📊 GitHub Stats  
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=junaidmokit&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=junaidmokit&show_icons=true&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=junaidmokit&show_icons=true&theme=tokyonight&hide_border=true" 
+    alt="Junaid Mokit's GitHub Stats" 
+    height="170"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidmokit&layout=compact&theme=tokyonight&hide_border=true" 
+    alt="Top Languages" 
+    height="170"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=junaidmokit&theme=tokyonight" alt="GitHub Streak" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=junaidmokit&theme=tokyonight&hide_border=true" 
+    alt="GitHub Contribution Streak"
+  />
 </p>
+
