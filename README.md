@@ -73,6 +73,7 @@
 
 <!-- GitHub Stats -->
 ## 📊 GitHub Analytics  
+![Metrics](./metrics.svg)
 
   
 
