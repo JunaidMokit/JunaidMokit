@@ -74,15 +74,7 @@
 <!-- GitHub Stats -->
 ## 📊 GitHub Analytics  
 
-  <a href="https://github.com/nafisadman/github-readme-stats">
-    <img src="https://github-readme-stats-gold-ten-62.vercel.app/api?username=nafisadman&show_icons=true&theme=radical&count_private=true" alt="Nafi Sadman's Stats" />
-  </a>
-
-  <a href="https://github.com/nafisadman/github-readme-stats">
-    <img src="https://github-readme-stats-gold-ten-62.vercel.app/api/top-langs/?username=nafisadman&layout=compact&theme=radical" alt="Top Languages" />
-  </a>
-
-</div>
+  
 
 
 ---
