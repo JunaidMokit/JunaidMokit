@@ -5,7 +5,7 @@
 
 <!-- Intro -->
 <h3 align="center">
-  🚀 Full-Stack Developer | MERN | Cloud Enthusiast
+  🚀 Full-Stack Developer | MERN 
 </h3>
 
 <p align="center">
@@ -75,13 +75,14 @@
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=junaidmokit&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidmokit&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=junaidmokit&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidmokit&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=junaidmokit&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=junaidmokit&theme=tokyonight&hide_border=true"/>
 </p>
+
 
 ---
 
