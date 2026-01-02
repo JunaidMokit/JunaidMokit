@@ -74,14 +74,15 @@
 <!-- GitHub Stats -->
 ## 📊 GitHub Analytics  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=junaidmokit&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidmokit&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
-</p>
+  <a href="https://github.com/nafisadman/github-readme-stats">
+    <img src="https://github-readme-stats-gold-ten-62.vercel.app/api?username=nafisadman&show_icons=true&theme=radical&count_private=true" alt="Nafi Sadman's Stats" />
+  </a>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=junaidmokit&theme=tokyonight&hide_border=true"/>
-</p>
+  <a href="https://github.com/nafisadman/github-readme-stats">
+    <img src="https://github-readme-stats-gold-ten-62.vercel.app/api/top-langs/?username=nafisadman&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
+
+</div>
 
 
 ---
